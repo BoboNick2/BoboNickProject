@@ -1,2 +1,2 @@
-# BoboNickProject
-Making the world better
+# C++ made modern
+From gamers, for gamers, FGX2
